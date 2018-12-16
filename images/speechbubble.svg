@@ -1,0 +1,13 @@
+<svg width="450" height="300" xmlns="http://www.w3.org/2000/svg">
+ <!-- Created with Method Draw - http://github.com/duopixel/Method-Draw/ -->
+ <g>
+  <title>background</title>
+  <rect fill="none" id="canvas_background" height="302" width="452" y="-1" x="-1"/>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <path stroke="#1A333F" id="svg_2" d="m75.997861,103.760919l0,0c0,-12.735931 15.492813,-23.060441 34.604164,-23.060441l15.729174,0l0,0l75.500011,0l141.562481,0c9.177618,0 17.979317,2.42957 24.468871,6.754246c6.489514,4.324675 10.135313,10.190192 10.135313,16.306196l0,57.65111l0,0l0,34.590655l0,0c0,12.735937 -15.492803,23.060441 -34.604174,23.060441l-141.562481,0l-98.631448,58.637344l23.131437,-58.637344l-15.729174,0c-19.111351,0 -34.604164,-10.324504 -34.604164,-23.060441l0,0l0,-34.590655l0,0l-0.00001,-57.65111z" fill-opacity="null" stroke-opacity="null" stroke-width="1.5" fill="#84D3DB"/>
+  <text xml:space="preserve" text-anchor="start" font-family="'Trebuchet MS', Gadget, sans-serif" font-size="44" id="svg_3" y="136" x="123.5" fill-opacity="null" stroke-opacity="null" stroke-width="0" stroke="#1A333F" fill="#000000">I'm Begüm.</text>
+  <text xml:space="preserve" text-anchor="start" font-family="'Trebuchet MS', Gadget, sans-serif" font-size="32" id="svg_4" y="191.666763" x="125.5" fill-opacity="null" stroke-opacity="null" stroke-width="0" stroke="#1A333F" fill="#000000">a programmer.</text>
+ </g>
+</svg>
